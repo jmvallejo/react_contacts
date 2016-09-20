@@ -1,0 +1,23 @@
+{
+  "name": "Contacts",
+  "productName": "React Contacts",
+  "version": "1.0.0",
+  "description": "React Contacts Sample",
+  "license": "MIT",
+  "private": true,
+  "main": "app/index.html",
+  "author": {
+    "name": "Juan Manuel Vallejo",
+    "email": "jmvallejo@gmail.com",
+    "url": "github.com/jmvallejo"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-reactify": "0.0.2",
+    "jquery": "^3.1.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
+}
